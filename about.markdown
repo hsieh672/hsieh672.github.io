@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Josie! I love exploring new places, trying local food, and collecting small stories along the way.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This blog is where I share my travel notes, favorite spots, and tips for planning your own trips.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Where to find me
+
+- Instagram: [@josietw.film](https://www.instagram.com/josietw.film/)
+- Email: [josietraveltw@gmail.com](mailto:josietraveltw@gmail.com)
 
 
-[jekyll-organization]: https://github.com/jekyll
+![Josie in MEL]({{ "/assets/images/josie.jpg" | relative_url }})
