@@ -14,4 +14,4 @@ This blog is where I share my travel notes, favorite spots, and tips for plannin
 - Email: [josietraveltw@gmail.com](mailto:josietraveltw@gmail.com)
 
 
-![Josie in MEL]({{ "/assets/images/josie.jpg" | relative_url }})
+![Josie in MEL]({{ "/assets/images/Josie.jpg" | relative_url }})
